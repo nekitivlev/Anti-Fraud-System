@@ -291,3 +291,4 @@ Response:
 
 ## Usage
 `./gradlew bootRun`
+The endpoints can be accessed using a browser or a tool that allows you to send HTTP requests like Postman.
